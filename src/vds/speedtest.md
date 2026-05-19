@@ -40,3 +40,7 @@ snap run speedtest --accept-license --accept-gdpr -s 13764
 # Швеция/Финляндия - GSL Networks
 snap run speedtest --accept-license --accept-gdpr -s 65088
 ```
+```bash
+# Польша - GSL Networks
+snap run speedtest --accept-license --accept-gdpr -s 65089
+```
